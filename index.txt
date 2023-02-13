@@ -23,4 +23,4 @@ api.scratch.mit.edu/projects/*/comments$domain=scratch.mit.edu
 api.scratch.mit.edu/users/*/favorites$domain=scratch.mit.edu
 api.scratch.mit.edu/users/*/following$domain=scratch.mit.edu
 api.scratch.mit.edu/proxy/users/*/activity$domain=scratch.mit.edu
-scratch.mit.edu/splash.css
+scratch.mit.edu/common.css
