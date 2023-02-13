@@ -1,0 +1,26 @@
+# First off, Ads and analytics waste bandwidth+CPU+your time!
+google-analytics.com
+googletagmanager.com
+googletagservices.com
+googleoptimize.com
+twitter-ads.com
+syndication.twitter.com
+googlesyndication.com
+doubleclick.net
+improving.duckduckgo.com
+google.com/*/log?
+securemetrics.apple.com
+amazon-adsystem.com
+adobedtm.com
+ads.linkedin.com
+ads.topprod.repl.co
+analytics.topprod.repl.co
+analytics.tiktok.com
+
+# Let's simplify scratch
+api.scratch.mit.edu/projects/count/all$domain=scratch.mit.edu
+api.scratch.mit.edu/projects/*/comments$domain=scratch.mit.edu
+api.scratch.mit.edu/users/*/favorites$domain=scratch.mit.edu
+api.scratch.mit.edu/users/*/following$domain=scratch.mit.edu
+api.scratch.mit.edu/proxy/users/*/activity$domain=scratch.mit.edu
+scratch.mit.edu/splash.css
